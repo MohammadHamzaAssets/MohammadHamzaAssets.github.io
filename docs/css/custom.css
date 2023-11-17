@@ -1,0 +1,11 @@
+/* your styles go here */
+.sidebar-p {
+  color: #999999;
+  font-size: 24px;
+}
+
+.sidebar-heading {
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
