@@ -2,26 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mohammadhamzaassets.github.io/portfolio/f1_racing/</loc>
-    <lastmod>2020-02-05T18:25:22+05:30</lastmod>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://mohammadhamzaassets.github.io/</loc>
-    <lastmod>2020-02-05T18:25:22+05:30</lastmod>
+    <loc>/tags/index/</loc>
   </url><url>
-    <loc>https://mohammadhamzaassets.github.io/portfolio/</loc>
-    <lastmod>2020-02-05T18:25:22+05:30</lastmod>
+    <loc>/</loc>
   </url><url>
-    <loc>https://mohammadhamzaassets.github.io/portfolio/car_parking/</loc>
-    <lastmod>2020-01-05T18:25:22+05:30</lastmod>
+    <loc>/posts/</loc>
   </url><url>
-    <loc>https://mohammadhamzaassets.github.io/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <loc>/series/</loc>
   </url><url>
-    <loc>https://mohammadhamzaassets.github.io/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url><url>
-    <loc>https://mohammadhamzaassets.github.io/categories/</loc>
-  </url><url>
-    <loc>https://mohammadhamzaassets.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
